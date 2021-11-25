@@ -1,0 +1,15 @@
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.AssemblyReference.cache
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfoInputs.cache
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfo.cs
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\Exercicio03.exe
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\Exercicio03.deps.json
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\Exercicio03.runtimeconfig.json
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\Exercicio03.dll
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\ref\Exercicio03.dll
+E:\Meus Projetos\ListadeExercio01\Exercicio03\bin\Debug\net6.0\Exercicio03.pdb
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.dll
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\ref\Exercicio03.dll
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.pdb
+E:\Meus Projetos\ListadeExercio01\Exercicio03\obj\Debug\net6.0\Exercicio03.genruntimeconfig.cache
