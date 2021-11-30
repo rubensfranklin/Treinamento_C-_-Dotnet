@@ -1,0 +1,15 @@
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.exe
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.deps.json
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.runtimeconfig.json
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.dll
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\ref\Estrutura de repetição.dll
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\bin\Debug\net6.0\Estrutura de repetição.pdb
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.csproj.AssemblyReference.cache
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.AssemblyInfoInputs.cache
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.AssemblyInfo.cs
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.dll
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\ref\Estrutura de repetição.dll
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.pdb
+E:\Meus Projetos\Treinamento_C-_-Dotnet\Estrutura de repetição\obj\Debug\net6.0\Estrutura de repetição.genruntimeconfig.cache
